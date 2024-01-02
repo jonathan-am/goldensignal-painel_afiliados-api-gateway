@@ -1,0 +1,190 @@
+{
+    "plataform": "teste",
+    "plataforms": [
+        {
+            "plataform": 1,
+            "name": "MMAbet",
+            "accessLink": "https://mmabet.com/casino",
+            "image": "https://media.pl-01.cdn-platform.xyz/cms/sites/image-1689891468612656.webp",
+            "hot": true
+        },
+        {
+            "plataform": 2,
+            "name": "Dupoc",
+            "accessLink": "https://dupoc.com/",
+            "image": "https://i.ibb.co/n3ynkJT/logo.gif",
+            "hot": false
+        },
+        {
+            "plataform": 3,
+            "name": "PlayPix",
+            "accessLink": "https://playpix.com/",
+            "image": "https://www.playpix.com/logo.gif?v=12/12/2023-07:24",
+            "hot": false
+        },
+        {
+            "plataform": 4,
+            "name": "PlayPix",
+            "accessLink": "https://playpix.com/",
+            "image": "https://www.playpix.com/logo.gif?v=12/12/2023-07:24",
+            "hot": false
+        },
+        {
+            "plataform": 5,
+            "name": "PlayPix",
+            "accessLink": "https://playpix.com/",
+            "image": "https://www.playpix.com/logo.gif?v=12/12/2023-07:24",
+            "hot": true
+        }
+    ],
+    "games": [
+        {
+            "gameTitle": "Fortune Tiger",
+            "gameId": 3001114,
+            "gameImage": "https://assets-global.website-files.com/645eede925bdf9d102b91317/64892dae751d0f55b4eb14c4_6489193dd93afd96335f91fa_6483d7003cbfcd23c72d409d_6483577576b860e90dc139ca_fortune_tiger.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "pg_gameId",
+                    "redirectUrl": "126"
+                }
+            ]
+        },
+        {
+            "gameTitle": "Fortune Mouse",
+            "gameId": 3001046,
+            "gameImage": "https://i.ibb.co/sjthM7J/rato.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "pg_gameId",
+                    "redirectUrl": "68"
+                }
+            ]
+        },
+        {
+            "gameTitle": "Fortune Ox",
+            "gameId": 3001090,
+            "gameImage": "https://assets-global.website-files.com/645eede925bdf9d102b91317/64892daed07e20dd4b489659_6489193d516b9abf920599bb_6483d6ff66311009cc50e86b_6483ccefacafd7030332032c_fortune-ox.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "pg_gameId",
+                    "redirectUrl": "98"
+                }
+            ]
+        },
+        {
+            "gameTitle": "Fortune Rabbit",
+            "gameId": 420018912,
+            "gameImage": "https://assets-global.website-files.com/645eede925bdf9d102b91317/64892dae18b47a0c31879625_6489193d98d83b71ff2225df_6483d700a85c12558b4ef63a_6483ceea8dbd81f644e08102_fortune-rabbit.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                }
+            ]
+        },
+        {
+            "gameTitle": "Piggy Gold",
+            "gameId": 3001026,
+            "gameImage": "https://assets-global.website-files.com/645eede925bdf9d102b91317/64892db09095455fa4948330_6489193f6726206e6a92098e_6483d7023bdb661f6202d050_64835a8128dd1491f0d41a98_piggy-gold.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "pg_gameId",
+                    "redirectUrl": "39"
+                }
+            ]
+        },
+        {
+            "gameTitle": "Dragon Tiger Luck",
+            "gameId": 3001043,
+            "gameImage": "https://i.ibb.co/BsBc61n/dagrao.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "pg_gameId",
+                    "redirectUrl": "63"
+                }
+            ]
+        },
+        {
+            "gameTitle": "Phoenix Rises",
+            "gameId": 3001061,
+            "gameImage": "https://i.ibb.co/V9tQHgn/phoenix.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "pg_gameId",
+                    "redirectUrl": "82"
+                }
+            ]
+        },
+        {
+            "gameTitle": "Ganesha Gold",
+            "gameId": 3001029,
+            "gameImage": "https://assets-global.website-files.com/645eede925bdf9d102b91317/64892daf0421491be3fd075b_6489193d8bfc729866c3f831_6483d700acafd7030338f616_64835a253f5bb087bb6a2e91_ganesha-gold.webp",
+            "gameLinks": [
+                {
+                    "plataform": "mmabet",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "dupoc",
+                    "redirectUrl": "https://mmabet.com/casino/game/1975368?btag=CX-56864_451109"
+                },
+                {
+                    "plataform": "pg_gameId",
+                    "redirectUrl": "42"
+                }
+            ]
+        }
+    ]
+}
